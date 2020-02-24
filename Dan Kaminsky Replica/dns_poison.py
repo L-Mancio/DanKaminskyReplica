@@ -1,4 +1,4 @@
-'''this project is for academica purposes only
+'''this project is for academic purposes only
 	brought to you by Luca and Luigi
 '''
 from random import randint
